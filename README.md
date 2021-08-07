@@ -7,7 +7,7 @@ This client based web page not only provides Search Engine Optimization, Online 
 <br>
 <br>
 
-To launch the website-> [click here](https://mandy2324.github.io/Horiseon-Social-Solution/)
+To launch the website-> [click here](https://mandy2324.github.io/Horiseon-solution-services/)
 <br>
 <br>
 # Webpage Preview:
