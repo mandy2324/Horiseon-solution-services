@@ -8,25 +8,26 @@ This client based web page not only provides Search Engine Optimization, Online 
 <br>
 
 To launch the website-> [click here](https://mandy2324.github.io/Horiseon-solution-services/)
-<br>
-<br>
-# Webpage Preview:
-<br>
 
-![This the the final look of the website after being launched](.//assets\images\01-html-css-git-homework-demo.png)
+# Webpage Preview:
+
+
+![Launched webpage](/Horiseon-solution-services\assets\images\screenshot.png)
  
  # Installation:
+
  * Chrome/edge/firefox browser.
  * Internet.
 * VS Code to make any changes.
-<br>
-<br>
+
+
 # Features:
+
 * Responsive Navigation bar which leads you to the designated section of the web page.
 * Discriptive Main section, elaborating specifications of the services provided.
 * Aside bar for the details.
 * Footer with copyright details.
-<br>
-<br>
+
+
 # Contact:
 You can connect with me on [linkedin](https://www.linkedin.com/in/m23saini).
