@@ -12,7 +12,7 @@ To launch the website-> [click here](https://mandy2324.github.io/Horiseon-soluti
 # Webpage Preview:
 
 
-![Launched webpage](/Horiseon-solution-services\assets\screenshot.png)
+![Launched webpage](/assets/screenshot.png)
  
  # Installation:
 
