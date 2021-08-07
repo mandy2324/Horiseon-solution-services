@@ -1,4 +1,4 @@
-# Horiseon Social Solutions.
+# Horiseon Solution Services.
 
 ##  This is a website for a Marketing corporation, Horiseon Social Solution Services, Inc. 
 <br>
